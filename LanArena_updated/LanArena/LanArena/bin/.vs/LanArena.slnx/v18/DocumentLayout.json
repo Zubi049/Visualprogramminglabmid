@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\bin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\documentation_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\publish.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\serverdiscovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\cross_network_enhancement.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\server_implementation_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\settingsdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\implementation_summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\quickstart_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\readme_cross_network.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\project_completion_summary.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\quick_reference.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F237B0E0-1773-CEB4-9244-F8691D34ACE9}|LanArena.csproj|c:\\users\\hp\\downloads\\lanarena_updated\\lanarena\\lanarena\\completion_checklist.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\GameForm.cs",
+              "RelativeDocumentMoniker": "..\\GameForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\GameForm.cs",
+              "RelativeToolTip": "..\\GameForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:41:47.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DOCUMENTATION_INDEX.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\DOCUMENTATION_INDEX.md",
+              "RelativeDocumentMoniker": "..\\DOCUMENTATION_INDEX.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\DOCUMENTATION_INDEX.md",
+              "RelativeToolTip": "..\\DOCUMENTATION_INDEX.md",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:44:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\AppSettings.cs",
+              "RelativeDocumentMoniker": "..\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\AppSettings.cs",
+              "RelativeToolTip": "..\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:01:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerDiscovery.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\ServerDiscovery.cs",
+              "RelativeDocumentMoniker": "..\\ServerDiscovery.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\ServerDiscovery.cs",
+              "RelativeToolTip": "..\\ServerDiscovery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:46:17.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\MainForm.cs",
+              "RelativeToolTip": "..\\MainForm.cs",
+              "ViewState": "AgIAABECAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:46:31.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "COMPLETION_CHECKLIST.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\COMPLETION_CHECKLIST.md",
+              "RelativeDocumentMoniker": "..\\COMPLETION_CHECKLIST.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\COMPLETION_CHECKLIST.md",
+              "RelativeToolTip": "..\\COMPLETION_CHECKLIST.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:32:40.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QUICK_REFERENCE.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\QUICK_REFERENCE.md",
+              "RelativeDocumentMoniker": "..\\QUICK_REFERENCE.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\QUICK_REFERENCE.md",
+              "RelativeToolTip": "..\\QUICK_REFERENCE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:24:03.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PROJECT_COMPLETION_SUMMARY.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\PROJECT_COMPLETION_SUMMARY.md",
+              "RelativeDocumentMoniker": "..\\PROJECT_COMPLETION_SUMMARY.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\PROJECT_COMPLETION_SUMMARY.md",
+              "RelativeToolTip": "..\\PROJECT_COMPLETION_SUMMARY.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:23:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "README_CROSS_NETWORK.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\README_CROSS_NETWORK.md",
+              "RelativeDocumentMoniker": "..\\README_CROSS_NETWORK.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\README_CROSS_NETWORK.md",
+              "RelativeToolTip": "..\\README_CROSS_NETWORK.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:17:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QUICKSTART_GUIDE.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\QUICKSTART_GUIDE.md",
+              "RelativeDocumentMoniker": "..\\QUICKSTART_GUIDE.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\QUICKSTART_GUIDE.md",
+              "RelativeToolTip": "..\\QUICKSTART_GUIDE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:08:35.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMPLEMENTATION_SUMMARY.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\IMPLEMENTATION_SUMMARY.md",
+              "RelativeDocumentMoniker": "..\\IMPLEMENTATION_SUMMARY.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\IMPLEMENTATION_SUMMARY.md",
+              "RelativeToolTip": "..\\IMPLEMENTATION_SUMMARY.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:08:09.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsDialog.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\SettingsDialog.cs",
+              "RelativeDocumentMoniker": "..\\SettingsDialog.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\SettingsDialog.cs",
+              "RelativeToolTip": "..\\SettingsDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:01:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SERVER_IMPLEMENTATION_GUIDE.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\SERVER_IMPLEMENTATION_GUIDE.md",
+              "RelativeDocumentMoniker": "..\\SERVER_IMPLEMENTATION_GUIDE.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\SERVER_IMPLEMENTATION_GUIDE.md",
+              "RelativeToolTip": "..\\SERVER_IMPLEMENTATION_GUIDE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:01:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CROSS_NETWORK_ENHANCEMENT.md",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\CROSS_NETWORK_ENHANCEMENT.md",
+              "RelativeDocumentMoniker": "..\\CROSS_NETWORK_ENHANCEMENT.md",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\CROSS_NETWORK_ENHANCEMENT.md",
+              "RelativeToolTip": "..\\CROSS_NETWORK_ENHANCEMENT.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T10:00:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publish.bat",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\Publish.bat",
+              "RelativeDocumentMoniker": "..\\Publish.bat",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\LanArena_updated\\LanArena\\LanArena\\Publish.bat",
+              "RelativeToolTip": "..\\Publish.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH/SURBVEhL7dU/aBNhHMbxby5pgjo6WK1DaGOJ8Q8qFmxBWnGxaqk4OIriWBChKTEBFam0SkEdRByEDp3VRYqKDoJSMCpW0VoaTawWXJNo7tL7XV6XKvY1ryUYB8HPcvB7n/ee9ziOg79JKaWP/j2\u002BZGIgCyqsL9SHL2fV4\u002Bb7eg5UvYIK\u002B5KJuDo7OPRTvH7OnEph6UOdKx73Hj3lzsMnuCL68pKMBSWnzJuZHNPvZ3FsB8dxyGQ/8Tg9ydeSrceNjAWTUxkyH\u002BbI5D7iiiAivHo7w\u002BzcZ569nNLjRsaCWCSM5QMRj\u002B6uHXTvakcWijZFI3rcyFiglMK2HTwRlFIopRAR/BZUVEWPGxkLXk\u002B/Wzixy83xB9y4fR9PhJJtM5F\u002BoceNjAVbNrSyZtVKNkZbEHERzyW6rplYawudHW163MhYsGL5Mjrbt7M\u002B0ozfsghYFts2x\u002Bho28rV0TGGL13Rt1QV0Ae6YLCBw4d6Abg1fpeJ9HOKxSLiztPXn2B3104O9uzXt/1gfIJqQqEQhUKBc6kBhk\u002BnyOfzKO/3L7ymAm/exZ0vo1QFpSq45TKyxNddU0FFeTT4/RyPn6TvRJxgwM\u002BXYkGPLVJTQe/ePVy7PELT6kbWNjUyNnqdY0eP6LFFair4bmRokIsXzuvjqnzJRH8WfH/8T6hO5fTJf7/4Bn2yzOdgnYQEAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-11-09T09:35:24.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

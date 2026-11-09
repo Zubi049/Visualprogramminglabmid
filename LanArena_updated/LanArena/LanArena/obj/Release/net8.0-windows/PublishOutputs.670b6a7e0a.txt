@@ -1,0 +1,5 @@
+C:\Users\hp\Downloads\LanArena_updated\LanArena\LanArena\bin\Release\net8.0-windows\publish\LanArena.exe
+C:\Users\hp\Downloads\LanArena_updated\LanArena\LanArena\bin\Release\net8.0-windows\publish\LanArena.dll
+C:\Users\hp\Downloads\LanArena_updated\LanArena\LanArena\bin\Release\net8.0-windows\publish\LanArena.deps.json
+C:\Users\hp\Downloads\LanArena_updated\LanArena\LanArena\bin\Release\net8.0-windows\publish\LanArena.runtimeconfig.json
+C:\Users\hp\Downloads\LanArena_updated\LanArena\LanArena\bin\Release\net8.0-windows\publish\LanArena.pdb
